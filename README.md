@@ -25,3 +25,6 @@ Setup a new linux VM in azure using the new Azure CLI (AZ)
     $ az ssh <Machine IP>
 
 ```
+
+
+From : https://github.com/azure/azure-cli
